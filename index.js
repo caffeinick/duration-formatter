@@ -1,0 +1,26 @@
+import { formatDuration } from "./format-duration.js";
+
+console.log(formatDuration(-1));
+console.log(formatDuration(0));
+console.log(formatDuration(1));
+console.log(formatDuration(2));
+console.log(formatDuration(59));
+console.log(formatDuration(60));
+console.log(formatDuration(61));
+console.log(formatDuration(62));
+console.log(formatDuration(3599));
+console.log(formatDuration(3600));
+console.log(formatDuration(3601));
+console.log(formatDuration(3602));
+console.log(formatDuration(86399));
+console.log(formatDuration(86400));
+console.log(formatDuration(86401));
+console.log(formatDuration(86402));
+console.log(formatDuration(31535999));
+console.log(formatDuration(31536000));
+console.log(formatDuration(31536001));
+console.log(formatDuration(31536002));
+console.log(formatDuration(63071999));
+console.log(formatDuration(63072000));
+console.log(formatDuration(63072001));
+console.log(formatDuration(63072002));

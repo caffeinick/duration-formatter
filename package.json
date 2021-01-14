@@ -1,0 +1,24 @@
+{
+    "name": "duration-formatter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js",
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/caffeinick/duration-formatter.git"
+    },
+    "keywords": [
+        "utilities"
+    ],
+    "author": "caffeinick",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/caffeinick/duration-formatter/issues"
+    },
+    "homepage": "https://github.com/caffeinick/duration-formatter#readme"
+}
